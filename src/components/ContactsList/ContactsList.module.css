@@ -1,0 +1,24 @@
+.button {
+    display: inline-block;
+    margin-left: 10px;
+    padding:5px;
+    background-color: rgba(255, 0, 0, 0.763);
+    color: white;
+    border: none;
+    border-radius: 5px;
+}
+ul{
+    list-style: none;
+}
+.ContactItem{
+    font-weight: 500;
+    font-size: 18px;
+    margin-bottom: 10px;
+}
+.ContactItem:last-child {
+    margin-bottom: 0;
+}
+.number {
+
+    color: grey;
+}

@@ -1,0 +1,30 @@
+.formContainer {
+    display: inline-block;
+    border: 1px solid black;
+    border-radius: 5px;
+    padding: 10px;
+}
+
+label {
+    display: block;
+    margin-bottom: 10px;
+    font-weight: 600;
+    font-size: 18px;
+}
+input {
+    display: block;
+    width: 300px;
+    padding: 5px;
+    margin-bottom: 10px;
+}
+.formBtn {
+    font-weight: 700;
+    font-size: 16px;
+    display: inline-block;
+    margin-left: 100px;
+    padding: 7px 10px;
+    background-color: rgba(0, 128, 0, 0.794);
+    color: white;
+    border: none;
+    border-radius: 5px;
+}
